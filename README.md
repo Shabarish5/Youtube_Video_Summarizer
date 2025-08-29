@@ -19,7 +19,7 @@ A powerful Streamlit web application that transforms YouTube video transcripts i
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3.12
 - Perplexity AI API key
 
 ### Installation
@@ -167,3 +167,4 @@ If you encounter any issues or have questions, please open an issue on GitHub or
 ---
 
 **Note**: Make sure to obtain your own Perplexity AI API key and keep it secure in your `.env` file.
+
